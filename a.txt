@@ -1,6 +1,4 @@
-Testando
-uma
-atualização
-de arquivo
-com novidades
-extras
+Novos testes 
+Agora 
+indicam 
+segurança.
